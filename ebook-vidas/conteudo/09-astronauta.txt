@@ -1,0 +1,70 @@
+numero: 09
+titulo: O astronauta brasileiro
+rotulo: ASTRONAUTA
+nome: Lucas Tavares
+nascimento: 2005
+cidade: São José dos Campos, SP
+dificuldade: ★★★★★
+objetivo: Sair do Brasil para o espaço e pisar na Lua.
+icone: rocket
+cor1: #3b82f6
+cor2: #0f172a
+avatar: pele=escura cabelo=crespo cor_cabelo=preto roupa=#f97316
+avatar_jovem: roupa=#1d4ed8
+avatar_final: roupa=#e2e8f0 acessorio=capacete
+avatar_idoso: cabelo=careca roupa=#1d4ed8 acessorio=oculos
+stats_fim: 95 63 98 70
+morte: 92
+causa: Velhice, olhando as estrelas no quintal
+profissao: Astronauta e professor
+patrimonio: R$ 14 milhões
+familia: Casado, 2 filhos
+fama: Herói nacional
+titulo_final: Explorador espacial
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em São José dos Campos, São Paulo. Sou um menino chamado Lucas.
+@0 Minha mãe é engenheira de aviões. Meu pai é professor de física.
+@5 Meu pai me mostrou a Lua num telescópio emprestado. Fiquei uma hora sem piscar.
+@7 Construí um foguete de garrafa PET. Ele subiu 40 metros e caiu no telhado do vizinho.
+@9 Escrevi uma carta para uma agência espacial perguntando como virar astronauta. Me responderam com um adesivo e uma lista: estudar ciências, cuidar da saúde, aprender inglês.
+> Ser astronauta no simulador é um dos objetivos mais difíceis: Saúde e Inteligência precisam ficar no máximo a vida inteira.
+@11 Fiz da carta um plano. Pendurei a lista na parede do quarto.
+# ADOLESCÊNCIA
+@13 Ganhei medalha de ouro na olimpíada brasileira de astronomia.
+@14 Comecei a nadar todos os dias para melhorar o fôlego.
+@15 Aprendi inglês assistindo a documentários espaciais sem legenda.
+@17 Passei no vestibular de um dos institutos de engenharia mais difíceis do país.
+$ Status aos 18 anos | 86 95 94 66
+# PILOTO
+@22 Formado em engenharia aeroespacial.
+? Qual o próximo passo? | Trabalhar numa empresa de tecnologia | *Entrar na Força Aérea para virar piloto de teste | Fazer mestrado no exterior
+@23 Comecei o treinamento para piloto.
+!! Reprovado no exame de visão | Uma alteração leve na visão quase me tirou do programa. Fiz tratamento e passei no novo exame seis meses depois.
+@26 Virei piloto de testes. Mais de mil horas de voo.
+@28 Casei com a Sofia, uma astrofísica que conheci numa conferência.
+# SELEÇÃO
+! Seleção de astronautas | Uma agência espacial internacional abriu vagas para astronautas de países parceiros. 12 mil candidatos. 6 vagas.
+@30 Me inscrevi.
+@30 Etapas: provas, entrevistas, testes de saúde, uma semana numa caverna escura e um teste de convivência num espaço apertado.
+? Na prova em grupo, um colega errou e o grupo falhou. O que fazer? | Culpar o colega | *Assumir a responsabilidade junto com o grupo | Ficar calado
++ Selecionado | Fui escolhido como astronauta. Primeiro brasileiro do programa.
+@31 Mudei com a Sofia para o centro de treinamento. Treinei em piscinas gigantes simulando gravidade zero.
+@33 Nasceu meu filho, o Gael.
+$ Status aos 34 anos | 90 97 97 68
+# O ESPAÇO
+@35 Primeira missão: seis meses numa estação espacial.
+@35 Na decolagem, senti o corpo pesar três vezes mais. Depois de 9 minutos… flutuando.
+@35 Vi o Brasil inteiro pela janela. Mandei uma foto de São José dos Campos para o meu pai.
+@36 Fiz 200 experimentos científicos, incluindo um com sementes de feijão enviadas por crianças de escolas brasileiras.
+@40 Fui escolhido para uma missão à Lua.
+!! Problema na nave | Um sensor falhou durante a viagem. Passei 14 horas consertando com a equipe de terra.
++ Pisei na Lua | Primeiro brasileiro a pisar na Lua. Deixei lá uma bandeirinha do Brasil e o adesivo da agência que guardei desde os 9 anos.
+# DE VOLTA À TERRA
+@43 Me aposentei das missões e virei professor universitário.
+@50 Criei um programa de foguetes de garrafa PET em mil escolas públicas.
+~ Os anos passam
+@70 Uma aluna do programa virou astronauta.
+@92 Morri olhando as estrelas no quintal de casa, com o telescópio do meu pai.
+= Uma carta respondida com um adesivo virou um plano, e o plano levou o Lucas até a Lua. Ele quase foi eliminado por causa da visão: em vez de desistir, tratou e tentou de novo.

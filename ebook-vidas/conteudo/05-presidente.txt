@@ -1,0 +1,72 @@
+numero: 05
+titulo: O presidente do Brasil
+rotulo: PRESIDENTE
+nome: Rafael Nunes
+nascimento: 2000
+cidade: Juazeiro do Norte, CE
+dificuldade: ★★★★★
+objetivo: Subir degrau por degrau da política até a Presidência da República.
+icone: flag
+cor1: #16a34a
+cor2: #1e3a8a
+avatar: pele=media cabelo=curto cor_cabelo=castanho roupa=#22c55e
+avatar_jovem: roupa=#0ea5e9
+avatar_final: roupa=#1e293b acessorio=gravata
+avatar_idoso: roupa=#334155 acessorio=gravata
+stats_fim: 80 62 90 66
+morte: 87
+causa: Velhice, lendo o jornal
+profissao: Ex-presidente da República
+patrimonio: R$ 6 milhões
+familia: Casado, 2 filhos
+fama: Conhecido no mundo inteiro
+titulo_final: Presidente
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Juazeiro do Norte, no Ceará. Sou um menino chamado Rafael.
+@0 Meu pai é dono de uma pequena mercearia. Minha mãe é agente de saúde.
+@7 Fui eleito representante da sala. Prometi mais tempo de recreio. Não consegui cumprir.
+@7 Aprendi a lição: não prometa o que você não pode fazer.
+@10 Organizei um mutirão para pintar a quadra da escola. 40 alunos ajudaram.
+> Política no simulador é uma maratona: exige faculdade, dinheiro guardado, boa imagem e muitos anos de carreira. Começar cedo ajuda muito.
+# ADOLESCÊNCIA
+@15 Virei presidente do grêmio estudantil. Consegui bebedouros novos para a escola.
+@16 Comecei a ir às sessões da câmara de vereadores só para assistir.
+@18 Passei em Direito na universidade federal.
+$ Status aos 18 anos | 78 90 86 64
+# PRIMEIROS CARGOS
+@24 Formado, trabalhei como advogado de associações de bairro.
+@26 Me candidatei a vereador.
+? Como fazer a campanha? | Prometer tudo para todo mundo | *Visitar bairro por bairro e ouvir as pessoas | Gastar tudo em propaganda
++ Eleito vereador | Fui o vereador mais votado da cidade.
+@28 Aprovei uma lei para ampliar as linhas de ônibus que vão até os bairros mais distantes.
+@32 Me candidatei a prefeito. Ganhei no segundo turno por 1.200 votos.
+@33 Casei com a Marina, professora de história.
+@34 Reformei 40 escolas e criei um programa de cursos técnicos para jovens.
+!! Proposta suspeita | Um empresário ofereceu "ajuda na campanha" em troca de uma licitação combinada.
+? O que fazer com a proposta? | Aceitar em segredo | *Recusar e denunciar | Fingir que não ouvi
+@35 Denunciei a proposta. O caso virou notícia nacional. Minha aprovação na cidade foi a 80%.
+> Em simuladores, escândalos de corrupção costumam acabar com carreiras políticas. Recusar foi a melhor jogada da vida dele.
+@36 Fui reeleito prefeito.
+# GOVERNADOR
+@42 Eleito governador do Ceará.
+@44 O estado ficou entre os primeiros do país em qualidade do ensino.
+@46 Fui reeleito governador.
+$ Status aos 47 anos | 72 70 90 66
+# A GRANDE ELEIÇÃO
+@50 Anunciei minha candidatura à Presidência da República.
+@50 Viajei para os 26 estados e o Distrito Federal. Comi tapioca, chimarrão, pão de queijo e açaí na mesma semana.
+? No debate final na TV, o adversário me provocou. Como responder? | Atacar de volta | *Responder com calma e mostrar meus planos | Sair do estúdio
+@50 A resposta calma viralizou. Subi 6 pontos nas pesquisas em uma semana.
++ Presidente eleito | Eleito presidente do Brasil no segundo turno. Discursei na praça de Juazeiro, onde tudo começou.
+# PRESIDÊNCIA
+@51 Tomei posse em Brasília. Meu pai fechou a mercearia por um dia para assistir.
+@52 Lancei um programa nacional de escolas em tempo integral.
+@54 Criei um plano de internet gratuita para todas as escolas públicas.
+@55 Fui reeleito.
+@59 Terminei o mandato e passei a faixa ao sucessor.
+~ Os anos passam
+@62 Voltei a dar aulas de direito na universidade.
+@87 Morri lendo o jornal, ao lado da Marina.
+= O Rafael ganhou a Presidência por causa de 30 anos de escolhas, e não por causa de uma campanha. A mais importante foi dizer "não" aos 34 anos, quando ninguém estava vendo.

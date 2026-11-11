@@ -1,0 +1,67 @@
+numero: 08
+titulo: A médica do sertão
+rotulo: MÉDICA
+nome: Ana Clara Moura
+nascimento: 2003
+cidade: Petrolina, PE
+dificuldade: ★★★★☆
+objetivo: Virar cirurgiã e levar saúde de qualidade para a cidade onde nasci.
+icone: cross
+cor1: #06b6d4
+cor2: #155e75
+avatar: pele=media cabelo=longo cor_cabelo=castanho roupa=#ec4899
+avatar_jovem: roupa=#a855f7
+avatar_final: cabelo=coque roupa=#0ea5e9 acessorio=jaleco
+avatar_idoso: cabelo=coque roupa=#0ea5e9 acessorio=oculos
+stats_fim: 93 71 96 68
+morte: 91
+causa: Velhice, no hospital que fundou (como visitante)
+profissao: Cirurgiã-chefe e fundadora de hospital
+patrimonio: R$ 22 milhões
+familia: Casada, 3 filhos
+fama: Querida pela região inteira
+titulo_final: Doutora
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Petrolina, Pernambuco. Sou uma menina chamada Ana Clara.
+@0 Minha mãe é costureira. Meu pai é agricultor e planta uvas.
+@6 Meu avô ficou doente e teve que viajar 8 horas para ser operado. Achei aquilo muito injusto.
+@7 Decidi que ia ser médica. Comecei a operar minhas bonecas com linha de costura da minha mãe.
+@10 Ganhei um livro de anatomia num sebo. Decorei todos os ossos da mão.
+> Medicina no simulador exige muita Inteligência. Estudar mais todos os anos, desde cedo, é a única estratégia que funciona.
+# ADOLESCÊNCIA
+@14 Montei um grupo de estudos na escola. Seis amigas entraram.
+@16 Fiz curso de primeiros socorros no corpo de bombeiros.
+! Emergência na feira | Um senhor desmaiou na feira. Fiz a manobra que aprendi no curso até a ambulância chegar. Os médicos disseram que eu ajudei a salvar a vida dele.
+@17 Prestei vestibular para Medicina.
+!! Reprovada | Não passei. Faltaram 11 pontos.
+? E agora? | Mudar de curso | *Estudar mais um ano e tentar de novo | Desistir de estudar
+@18 Estudei 10 horas por dia, trabalhando meio período na loja de costura da minha mãe.
++ Aprovada em Medicina | Passei em quinto lugar numa universidade federal. A cidade fez carreata.
+$ Status aos 18 anos | 90 84 92 66
+# FACULDADE
+@19 Primeira aula de anatomia de verdade. Uma colega desmaiou. Eu fiquei fascinada.
+@21 Plantões voluntários num posto de saúde da periferia.
+@24 Me formei em Medicina. Meus pais vieram de ônibus para a formatura.
+? Qual especialidade escolher? | Dermatologia | *Cirurgia geral | Medicina esportiva
+@25 Começou a residência em cirurgia. Plantões de 24 horas.
+!! Exaustão | Depois de meses sem descanso, fiquei esgotada e errei a dose de um remédio. Um colega percebeu a tempo.
+@26 Aprendi a lição: médico cansado também é perigo. Comecei a respeitar o meu descanso.
+? Como cuidar de mim mesma? | Ignorar o cansaço | *Fazer terapia, dormir e organizar a rotina | Largar a residência
+$ Status aos 27 anos | 72 80 95 64
+# CIRURGIÃ
+@29 Virei cirurgiã. Primeira cirurgia sozinha: um apêndice. Correu tudo bem.
+@31 Casei com o Paulo, enfermeiro do mesmo hospital.
+@33 Recebi convite para trabalhar num hospital famoso em São Paulo. Salário 4 vezes maior.
+? Aceitar o convite? | Aceitar e nunca mais voltar | *Recusar e voltar para Petrolina | Aceitar por 2 anos para aprender e depois voltar
+@34 Voltei para Petrolina. Era a única cirurgiã da região que operava pelo sistema público.
+@38 Juntei médicos, a prefeitura e doadores para construir um hospital regional.
++ Hospital inaugurado | O Hospital do Vale abriu as portas. Ninguém mais da região precisa viajar 8 horas para operar.
+@39 Coloquei o nome do meu avô no centro cirúrgico.
+@45 Virei cirurgiã-chefe do hospital.
+~ Os anos passam
+@60 Mais de 9 mil cirurgias feitas ao longo da carreira.
+@68 Me aposentei. Minha filha mais velha virou cirurgiã no mesmo hospital.
+@91 Morri tranquila. No velório, uma fila de ex-pacientes dava a volta no quarteirão.
+= A Ana Clara foi reprovada no vestibular, quase desistiu de cansaço e recusou o salário dos sonhos. As três escolhas difíceis fizeram dela a pessoa mais importante da cidade.

@@ -1,0 +1,65 @@
+numero: 10
+titulo: O maior youtuber de games
+rotulo: YOUTUBER
+nome: Bia "BiaPlays" Ferreira
+nascimento: 2009
+cidade: Curitiba, PR
+dificuldade: ★★★☆☆
+objetivo: Começar um canal de games com zero inscritos e chegar a 10 milhões.
+icone: mic
+cor1: #ec4899
+cor2: #6d28d9
+avatar: pele=clara cabelo=longo cor_cabelo=castanho roupa=#22c55e
+avatar_jovem: cor_cabelo=rosa roupa=#7c3aed acessorio=fone
+avatar_final: cor_cabelo=rosa roupa=#111827 acessorio=fone
+avatar_idoso: cor_cabelo=branco roupa=#7c3aed acessorio=oculos
+stats_fim: 94 70 82 76
+morte: 90
+causa: Velhice, durante uma live com os netos
+profissao: Criadora de conteúdo e dona de estúdio de jogos
+patrimonio: R$ 120 milhões
+familia: Casada, 2 filhos
+fama: Famosa no mundo inteiro
+titulo_final: Lenda da internet
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Curitiba, no Paraná. Sou uma menina chamada Beatriz, mas todo mundo me chama de Bia.
+@0 Minha mãe é designer. Meu pai é técnico de informática.
+@6 Joguei videogame pela primeira vez. Perdi todas as partidas para o meu pai. Pedi revanche 47 vezes.
+@9 Comecei a assistir a vídeos de games e a imitar os youtubers no espelho.
+# O CANAL
+@13 Criei meu canal: **BiaPlays**. Gravei o primeiro vídeo com o celular apoiado em três livros.
+@13 Primeiro vídeo: 11 visualizações. Oito eram da minha avó.
+? Pouquíssimas visualizações. E agora? | Apagar o canal | *Postar toda semana, com ou sem visualização | Comprar inscritos falsos
+> Comprar inscritos falsos parece atalho, mas pode fazer o canal ser punido. A Bia escolheu o caminho lento, que é o que funciona.
+@14 Postei 52 vídeos em um ano. Cheguei a 300 inscritos.
+@14 Aprendi a editar com programas gratuitos. Meus vídeos ficaram mais rápidos e sem enrolação.
+@15 Fiz um vídeo "tentando virar presidente num simulador de vida". Explodiu.
++ Vídeo viral | 1 milhão de visualizações em uma semana. Ganhei 80 mil inscritos.
+@15 Minha mãe fez a primeira miniatura profissional do canal.
+$ Status aos 16 anos | 90 82 74 70
+? Muitos comentários negativos no vídeo viral. Como reagir? | Responder brigando | *Ignorar as ofensas e ler as críticas úteis | Desativar os comentários para sempre
+@16 Percebi que vídeos com objetivo claro no título davam muito mais certo: "Tentando me tornar…"
+@17 Bati 1 milhão de inscritos. Ganhei uma placa de reconhecimento da plataforma.
+# A PRESSÃO
+@18 Comecei a postar todo dia. Parei de dormir direito. Parei de sair com os amigos.
+!! Esgotamento | Fiquei sem energia nenhuma, sem ideias e triste. Os vídeos começaram a ficar ruins.
+$ Status aos 19 anos | 22 58 76 64
+? O que fazer? | Continuar postando todo dia | *Avisar o público e tirar um mês de férias | Largar o canal
+@19 Fiz um vídeo sincero explicando a pausa. Foi o vídeo mais curtido do canal.
+@19 Voltei postando três vezes por semana, com mais qualidade. As visualizações subiram.
+> A lição mais importante desta vida: descansar também faz parte do trabalho. Felicidade baixa derruba tudo no simulador.
+# O TOPO
+@20 Montei uma equipe: um editor, uma roteirista e minha mãe nas miniaturas.
+@22 Cheguei a 5 milhões de inscritos.
+@23 Fiz faculdade de design de jogos à noite.
+@25 Fiz um evento ao vivo com 20 mil pessoas num ginásio.
++ 10 milhões | O canal BiaPlays chegou a 10 milhões de inscritos. Fiz uma live de 12 horas para comemorar.
+@27 Casei com o Téo, que era editor do canal.
+@30 Lancei meu próprio jogo independente, criado com a minha equipe. Um milhão de downloads no primeiro mês.
+@32 Abri um estúdio de jogos em Curitiba.
+~ Os anos passam
+@50 Passei o canal para os meus filhos, que criaram o "BiaPlays Jr.".
+@90 Morri durante uma live com os netos. Os comentários se encheram de corações.
+= O canal da Bia teve 11 visualizações no primeiro vídeo e quase acabou com o esgotamento aos 18. Ela chegou ao topo porque postou toda semana, tratou o público com respeito e aprendeu a descansar.

@@ -1,0 +1,67 @@
+numero: 06
+titulo: O maior procurado do mundo
+rotulo: PROCURADO
+nome: Otávio "Fantasma" Reis
+nascimento: 1999
+cidade: Santos, SP
+dificuldade: ★★★★★
+objetivo: Virar o ladrão mais procurado do planeta. (Spoiler: o crime não compensa.)
+icone: mask
+cor1: #334155
+cor2: #0f172a
+avatar: pele=clara cabelo=curto cor_cabelo=castanho roupa=#111827
+avatar_jovem: roupa=#1f2937 acessorio=bone
+avatar_final: roupa=#111827 acessorio=mascara
+avatar_idoso: roupa=#1d4ed8 acessorio=oculos
+stats_fim: 78 60 88 58
+morte: 84
+causa: Velhice, em liberdade
+profissao: Consultor de segurança de museus
+patrimonio: R$ 2 milhões
+familia: Casado, 1 filho
+fama: Famoso (pelos motivos errados)
+titulo_final: Ex-procurado
+resultado: parcial
+---
+# INFÂNCIA
+@0 Nasci em Santos, São Paulo. Sou um menino chamado Otávio.
+@0 Meu pai é segurança de shopping. Minha mãe é contadora.
+@8 Tentei pegar um chocolate escondido no mercado. Minha mãe viu antes de eu sair do corredor.
+!! Flagrado | Tive que devolver o chocolate, pedir desculpas ao caixa e ficar um mês sem videogame.
+@12 Fiquei obcecado por filmes de assalto. Assisti a todos.
+> Aviso de quem está jogando: nos simuladores, o caminho do crime parece divertido, mas quase sempre termina em prisão. Esta vida é a prova.
+# JUVENTUDE
+@16 Descobri que eu era bom em entender alarmes e fechaduras. Meu pai dizia que eu deveria trabalhar com segurança.
+@18 Comecei Engenharia Elétrica. Larguei no segundo semestre.
+? Qual caminho seguir? | Voltar para a faculdade | *Usar o talento para o crime | Trabalhar com o meu pai
+@19 Tentei meu primeiro "grande golpe": roubar a coroa de um museu de cera.
+!! Plano fracassado | Espirrei dentro do museu às 3h da manhã. O alarme disparou. Fugi, mas deixei meu boné para trás. Com o meu nome escrito.
+@19 Fui preso em 4 horas. Juiz: 2 anos de serviço comunitário.
+$ Status aos 20 anos | 30 85 74 60
+@22 Ignorei a lição. Montei um "bando" com dois amigos de infância: o Tuca e o Biscoito.
+@23 Tentamos levar um diamante famoso de uma exposição. O Biscoito apertou o botão errado e abriu todas as portas… inclusive a da delegacia ao lado.
+@23 Fugimos. A imprensa me apelidou de **Fantasma**, porque as câmeras só filmavam minha sombra.
+@25 Fui parar na lista dos mais procurados do país. Não consegui mais visitar minha mãe.
+@27 Entrei na lista dos mais procurados do mundo.
+! Lista mundial | Meu rosto apareceu em aeroportos de 40 países. Não podia mais viajar, ver a família nem ter amigos.
+@28 Passei o aniversário sozinho num quarto de hotel barato. Felicidade no chão.
+$ Status aos 28 anos | 12 70 76 55
+? Continuar fugindo? | *Tentar um último golpe enorme | Me entregar | Fugir para uma ilha
+@29 O "último golpe" deu errado. O Tuca tinha virado informante da polícia.
+!! Preso | Fui capturado na saída de um museu em Lisboa. Pena: 15 anos.
+# PRISÃO
+@30 Primeiro ano na prisão. Tentei fugir pelo túnel da lavanderia.
+!! Fuga fracassada | O túnel dava direto na sala do diretor. Mais 3 anos de pena.
+@32 Comecei a ler na biblioteca da prisão. Terminei o ensino superior a distância.
+? Como passar o resto da pena? | Planejar outra fuga | *Estudar e ajudar outros presos a estudar | Ficar parado
+@38 Dei aulas de matemática para 60 presos. Minha pena foi reduzida por bom comportamento e estudo.
+@41 Saí da prisão. Minha mãe estava me esperando no portão.
+# A SEGUNDA VIDA
+@42 Um museu me contratou para fazer algo legal pela primeira vez: testar a segurança deles.
+@43 Encontrei 27 falhas no sistema de alarme. Todas corrigidas.
+@45 Abri uma empresa de consultoria para proteger museus de pessoas como o antigo eu.
+@47 Casei com a Renata, uma restauradora de obras de arte.
+@50 Nasceu meu filho. Ele não vai ver nenhum filme de assalto até os 18 anos.
+~ Os anos passam
+@84 Morri em liberdade, com a família por perto.
+= Otávio conseguiu o que queria: virou o maior procurado do mundo. Em troca, perdeu 12 anos, a família e todos os amigos. Do jeito que foi, a vida dele só começou de verdade aos 41.

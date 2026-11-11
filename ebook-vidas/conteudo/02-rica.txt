@@ -1,0 +1,75 @@
+numero: 02
+titulo: A pessoa mais rica do mundo
+rotulo: BILIONÁRIA
+nome: Joana Lima
+nascimento: 2006
+cidade: Manaus, AM
+dificuldade: ★★★★★
+objetivo: Nascer sem dinheiro nenhum e terminar como a pessoa mais rica do planeta.
+icone: coin
+cor1: #f59e0b
+cor2: #b45309
+avatar: pele=morena cabelo=longo cor_cabelo=preto roupa=#ef4444
+avatar_jovem: roupa=#0ea5e9
+avatar_final: cabelo=coque roupa=#111827 acessorio=oculos
+avatar_idoso: cabelo=coque roupa=#7c3aed acessorio=oculos
+stats_fim: 88 55 97 70
+morte: 94
+causa: Velhice, na casa de frente para o rio
+profissao: Fundadora e presidente do conselho
+patrimonio: R$ 1,2 trilhão (doou metade)
+familia: Casada, 2 filhas, 4 netos
+fama: Conhecida no mundo inteiro
+titulo_final: Magnata
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Manaus, numa casa de madeira perto do rio. Sou uma menina chamada Joana.
+@0 Minha mãe vende peixe na feira. Meu pai trabalha num barco de transporte.
+$ Status ao nascer | 75 88 70 62
+@5 Ajudei minha mãe na feira contando o troco. Nunca errei uma conta.
+@8 Pedi um videogame de aniversário. Meus pais disseram que não tinham dinheiro.
+? Sem videogame. O que fazer? | Ficar emburrada | *Juntar dinheiro sozinha | Pedir para a avó
+@9 Comecei a vender brigadeiro na escola. Lucro da primeira semana: R$ 14.
+@10 Contratei minha prima para ajudar, pagando com brigadeiros. Lucro do mês: R$ 160.
+@11 Comprei o videogame com meu próprio dinheiro. E ainda sobrou para comprar uma panela maior.
+> Começar pobre deixa tudo mais difícil, mas o simulador recompensa quem trabalha cedo. Inteligência alta faz muita diferença nos negócios.
+# ADOLESCÊNCIA
+@13 Fui à biblioteca toda semana. Li tudo sobre programação e negócios.
+@14 Criei meu primeiro site: uma loja online dos peixes da minha mãe. As vendas dela dobraram.
+@15 Ganhei uma olimpíada de matemática. Primeira vez que andei de avião.
+@17 Passei em Ciência da Computação numa universidade federal, com bolsa.
+? Na faculdade, onde focar? | Só nas festas | *Estudar e criar projetos | Largar tudo e trabalhar
+# A PRIMEIRA EMPRESA
+@19 Percebi um problema: comunidades ribeirinhas esperavam dias por remédios e encomendas.
+@20 Criei um aplicativo para organizar entregas de barco. Nome: **RioJá**.
+@21 O app chegou a 5 mil usuários. Ainda dava prejuízo.
+! Investidor interessado | Um investidor ofereceu R$ 2 milhões por 40% da empresa.
+? Aceitar a oferta? | *Aceitar e crescer rápido | Recusar e crescer devagar | Vender a empresa inteira
+@22 Contratei 30 pessoas. Abrimos operação em quatro estados.
+@25 A RioJá virou a maior empresa de logística fluvial do país.
+!! Falência | Uma crise econômica e uma decisão errada de expansão quebraram a empresa. Perdi quase tudo.
+@27 Voltei a morar com meus pais. Fiquei meses triste.
+$ Status aos 27 anos | 31 70 90 64
+> Esse é o momento em que muita gente desiste da vida e começa outra. Mas a Inteligência dela estava em 90%…
+? Recomeçar? | Desistir dos negócios | *Recomeçar, aprendendo com os erros | Apostar tudo no cassino
+@28 Entendi o que deu errado: cresci rápido demais e gastei mais do que ganhava.
+@29 Fundei a segunda empresa: **Nuvem Verde**, de tecnologia para monitorar florestas com satélites.
++ Contrato gigante | Governos de 12 países contrataram a Nuvem Verde para combater o desmatamento.
+# O TOPO
+@33 Comprei a RioJá de volta. Agora com dinheiro guardado e sem pressa.
+@35 Casei com a Bruna, uma engenheira que conheci num congresso de tecnologia.
+@36 Abri o capital da empresa na bolsa. Virei bilionária no mesmo dia.
+@38 Nasceu minha primeira filha, a Iara.
+@40 Comprei uma casa nova para os meus pais, de frente para o rio onde eu nasci.
+@44 A Nuvem Verde passou a valer mais de R$ 500 bilhões.
+@52 Saiu a lista anual dos mais ricos do mundo.
++ A pessoa mais rica do mundo | Primeiro lugar no ranking mundial de fortunas. Minha mãe perguntou se isso significava que agora eu ia parar de trabalhar. Eu ri.
+? O que fazer com tanto dinheiro? | Comprar um iate gigante | *Doar metade da fortuna para educação e florestas | Comprar um time de futebol
+@53 Criei uma fundação que constrói escolas e paga bolsas de estudo na Amazônia.
+@60 Mil escolas inauguradas.
+~ Os anos passam
+@75 Passei a presidência da empresa para a minha filha Iara.
+@80 Voltei a fazer brigadeiro. Agora só para os netos.
+@94 Morri tranquila, na casa de frente para o rio.
+= A virada da Joana não foi ganhar dinheiro, e sim perder tudo aos 27 e entender o porquê. Quem aprende com a falência volta mais forte, no jogo e fora dele.

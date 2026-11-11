@@ -1,0 +1,83 @@
+numero: 01
+titulo: O melhor jogador do mundo
+rotulo: CRAQUE
+nome: Davi "Foguete" Rocha
+nascimento: 2008
+cidade: São Gonçalo, RJ
+dificuldade: ★★★★☆
+objetivo: Sair da várzea e ganhar o prêmio de melhor jogador do mundo.
+icone: ball
+cor1: #22c55e
+cor2: #065f46
+avatar: pele=morena cabelo=topete cor_cabelo=preto roupa=#facc15
+avatar_jovem: roupa=#16a34a
+avatar_final: roupa=#facc15 acessorio=faixa
+avatar_idoso: roupa=#1e3a8a acessorio=
+stats_fim: 92 61 70 78
+morte: 86
+causa: Velhice, dormindo depois de ver um jogo
+profissao: Técnico da seleção (aposentado)
+patrimonio: R$ 410 milhões
+familia: Casado, 3 filhos, 5 netos
+fama: Lenda mundial
+titulo_final: Lenda do futebol
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em São Gonçalo, no Rio de Janeiro. Sou um menino chamado Davi.
+@0 Meu pai é motoboy e minha mãe é cozinheira num restaurante do centro.
+@4 Ganhei minha primeira bola de presente de aniversário. Dormi abraçado com ela.
+@6 Comecei a jogar bola na rua todo dia depois da escola. Quebrei a janela do vizinho duas vezes.
+? O vizinho veio reclamar da janela. O que fazer? | Fugir correndo | *Pedir desculpas e ajudar a pagar o vidro | Culpar o meu primo
+@6 Meu pai ficou orgulhoso. O vizinho virou meu fã e passou a assistir aos jogos da rua.
+> Comecei com Felicidade alta e Saúde quase cheia. Para virar jogador, a Saúde vale ouro: academia e esporte desde cedo.
+@9 Entrei na escolinha de futebol do bairro. O técnico disse que eu corria "igual um foguete". O apelido pegou.
+$ Status aos 10 anos | 84 93 58 70
+# ADOLESCÊNCIA
+@12 Fiz minha primeira peneira num clube grande. Fiquei nervoso e errei um pênalti.
+!! Reprovado na peneira | O olheiro disse que eu era "muito pequeno". Voltei para casa chorando no ônibus.
+@12 Fiquei triste por uma semana. Depois voltei a treinar todo dia.
+? Depois da reprovação, o que fazer? | Desistir do futebol | *Treinar em dobro e tentar de novo | Mudar para o vôlei
+@13 Comecei a ir à academia três vezes por semana e passei a comer melhor. Cresci 9 centímetros em um ano.
+@14 Segunda peneira. Fiz dois gols e dei uma assistência.
++ Aprovado na base! | Fui aceito nas categorias de base de um clube da Série A. Minha mãe gritou tanto que os vizinhos acharam que alguém tinha ganhado na loteria.
+@15 Continuei estudando. O clube exigia nota boa na escola para jogar.
+@16 Fui artilheiro do campeonato sub-17 com 23 gols.
+@17 Um empresário me ofereceu um "contrato milionário" se eu assinasse sem ler.
+? Assinar o contrato do empresário misterioso? | Assinar na hora | *Pedir para um advogado ler antes | Rasgar o contrato
+@17 O advogado encontrou uma cláusula que me prendia por 10 anos ganhando quase nada. Escapei por pouco.
+> Lição de simulador: nem toda proposta com "milhões" é boa. Ler antes de aceitar salvou essa vida.
+# CARREIRA
+@18 Estreei no time profissional. Entrei aos 80 minutos e dei a assistência do gol da vitória.
+@19 Virei titular. Torcida cantando meu nome: "FO-GUE-TE! FO-GUE-TE!"
+@20 Fui convocado para a seleção pela primeira vez.
+! Proposta da Europa | Um gigante europeu ofereceu um contrato de 5 anos. Salário 30 vezes maior.
+? Aceitar a proposta europeia? | Ficar no Brasil para sempre | *Aceitar e me mudar | Pedir o dobro do salário
+@21 Me mudei para a Europa. Primeiro inverno da minha vida. Achei que ia congelar.
+@21 Meus pais vieram me visitar. Minha mãe trouxe 4 kg de feijão na mala.
+@22 Fiz 31 gols na temporada e ganhei o campeonato nacional.
+@23 Fui eleito o melhor jogador jovem da liga.
+!! Lesão grave | Rompi o ligamento do joelho num jogo de copa. Previsão: 9 meses parado.
+@23 Os jornais disseram que minha carreira podia acabar ali.
+? Como encarar a recuperação? | Voltar antes da hora para não perder vaga | *Seguir à risca o tratamento médico | Desistir e me aposentar
+@24 Voltei depois de 9 meses. No primeiro jogo, fiz um gol de bicicleta.
+$ Status aos 25 anos | 88 74 66 82
+@26 Fui campeão da maior competição de clubes da Europa. Gol do título na final.
+@27 Casei com a Luana, uma fisioterapeuta que conheci durante a recuperação do joelho.
++ Campeão do mundo | Com a seleção, ganhei a Copa do Mundo. Fiz o gol da virada na semifinal.
+@28 Fiquei em segundo lugar na votação de melhor jogador do mundo. Por 4 votos.
+> Ficar em segundo dói. Mas no simulador, assim como na vida, quem continua tentando ganha mais chances.
+@29 Nasceu meu primeiro filho, o Theo. Comemorei um gol fazendo um "berço" com os braços.
+@30 Temporada histórica: 52 gols e 21 assistências.
++ Melhor jogador do mundo | Fui eleito o melhor jogador do mundo. Subi no palco e agradeci ao técnico da escolinha de São Gonçalo, que estava na plateia.
+# FIM DE CARREIRA
+@33 Ganhei o prêmio de melhor jogador do mundo pela segunda vez.
+@35 Voltei para o Brasil para jogar no clube onde comecei. Estádio lotado na reapresentação.
+@37 Me aposentei. No jogo de despedida, o estádio inteiro acendeu a lanterna do celular.
+@38 Abri uma escolinha gratuita de futebol em São Gonçalo, no mesmo campo de terra onde eu jogava.
+@45 Virei técnico. Comecei num time pequeno da Série B e subi com ele para a Série A.
+@55 Fui convidado para ser técnico da seleção.
+~ Os anos passam
+@70 Um menino da minha escolinha foi eleito o melhor jogador do mundo. Chorei vendo pela TV.
+@86 Morri dormindo, depois de assistir a um jogo do meu neto pela TV.
+= Davi quase desistiu duas vezes: na peneira aos 12 e na lesão aos 23. Nas duas, a escolha de continuar com cuidado mudou a vida inteira. No simulador, as melhores carreiras quase sempre passam por um "não" no começo.

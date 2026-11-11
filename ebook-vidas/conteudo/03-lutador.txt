@@ -1,0 +1,72 @@
+numero: 03
+titulo: O maior lutador do mundo
+rotulo: LUTADOR
+nome: Kauã "Muralha" Santos
+nascimento: 2005
+cidade: Salvador, BA
+dificuldade: ★★★★☆
+objetivo: Virar campeão mundial de MMA e se aposentar sem nunca perder o cinturão.
+icone: glove
+cor1: #ef4444
+cor2: #7f1d1d
+avatar: pele=escura cabelo=curto cor_cabelo=preto roupa=#f97316
+avatar_jovem: roupa=#f8fafc
+avatar_final: cabelo=careca roupa=#dc2626 acessorio=faixa
+avatar_idoso: cabelo=careca roupa=#1e293b acessorio=
+stats_fim: 90 58 72 74
+morte: 89
+causa: Velhice, cercado pelos alunos
+profissao: Mestre e dono de academia
+patrimonio: R$ 95 milhões
+familia: Casado, 4 filhos
+fama: Lenda do esporte
+titulo_final: Invicto
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Salvador, na Bahia. Sou um menino chamado Kauã.
+@0 Minha mãe é professora e meu avô dá aulas de capoeira na praça.
+@5 Comecei a treinar capoeira com meu avô. Na primeira roda, caí sentado. Todo mundo riu, inclusive eu.
+@8 Um menino da escola começou a implicar com o meu amigo Pedro.
+? Como agir? | Partir para a briga | *Ficar do lado do Pedro e chamar a professora | Fingir que não vi
+@8 Meu avô disse: "Luta de verdade é no tatame, com respeito. Na rua, quem é forte protege."
+> No simulador, brigar na escola costuma dar suspensão e derrubar a felicidade. Kauã escolheu o caminho que manteve tudo em alta.
+@11 Comecei a treinar judô também. Ganhei meu primeiro campeonato estadual infantil.
+# ADOLESCÊNCIA
+@14 Descobri o jiu-jitsu. Passava mais tempo na academia do que em casa.
+@15 Meu treinador disse que eu tinha uma defesa impossível de atravessar. Ganhei o apelido de **Muralha**.
+@16 Minhas notas caíram. Minha mãe ameaçou me tirar dos treinos.
+? Escola ou treino? | Largar a escola | *Organizar horários e fazer as duas coisas | Largar os treinos
+@17 Terminei o ensino médio com nota boa e medalha de ouro no brasileiro de jiu-jitsu.
+$ Status aos 18 anos | 82 96 61 70
+# CARREIRA
+@18 Primeira luta amadora de MMA. Venci por decisão unânime.
+@20 Fiz 9 lutas amadoras: 9 vitórias.
+@21 Estreei como profissional.
+!! Primeira derrota | Perdi a estreia profissional. Subestimei o adversário e cansei no segundo round.
+@21 Assisti à luta 30 vezes. Descobri que meu ponto fraco era o fôlego.
+? O que mudar? | Trocar de esporte | *Treinar condicionamento todo dia, às 5h da manhã | Culpar o juiz
+@22 Corri na areia da praia todos os dias por um ano.
+@23 Seis vitórias seguidas. A maior organização de MMA do mundo me contratou.
+@25 Venci o número 3 do ranking com uma finalização no primeiro round.
+! Desafio pelo cinturão | Fui chamado para lutar pelo título mundial contra um campeão que estava invicto havia 7 anos.
+@26 Na noite da luta, meu avô estava na primeira fila, com a camisa da capoeira.
++ Campeão mundial | No quarto round, encaixei uma finalização. O juiz parou a luta. Virei campeão do mundo. Dediquei o cinturão ao meu avô.
+@27 Defendi o cinturão pela primeira vez.
+@28 Casei com a Taís, minha fisioterapeuta de longa data.
+@30 Quarta defesa de cinturão. Os jornais me chamaram de "o maior de todos os tempos".
+!! Lesão no ombro | Uma lesão no ombro me deixou um ano parado.
+@31 Muita gente achou que eu não ia voltar.
+@32 Voltei e defendi o cinturão pela quinta vez.
+$ Status aos 33 anos | 91 72 68 76
+@35 Décima defesa de cinturão. Recorde histórico.
+? Continuar lutando ou parar no auge? | Lutar até os 45 | *Me aposentar invicto como campeão | Tentar outro esporte
+@36 Anunciei a aposentadoria no centro do octógono. O ginásio inteiro aplaudiu de pé.
+# DEPOIS DO CINTURÃO
+@37 Abri uma academia gratuita para crianças em Salvador, com aulas de capoeira, judô e jiu-jitsu.
+@40 Meu avô morreu aos 96 anos. Fiz uma roda de capoeira na praça em homenagem a ele.
+@45 Três alunos da minha academia viraram campeões mundiais.
+~ Os anos passam
+@70 Recebi a faixa de grande mestre.
+@89 Morri em casa, cercado de alunos e netos.
+= O apelido "Muralha" veio da defesa, mas o título veio de admitir uma fraqueza (o fôlego) e treinar até ela sumir. Ah, e a primeira grande luta do Kauã foi defender um amigo sem dar um soco.

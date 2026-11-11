@@ -1,0 +1,66 @@
+numero: 04
+titulo: O mentalista
+rotulo: MENTALISTA
+nome: Benício Alves
+nascimento: 2001
+cidade: Ouro Preto, MG
+dificuldade: ★★★☆☆
+objetivo: Ler as pessoas tão bem que a polícia peça minha ajuda para resolver mistérios.
+icone: brain
+cor1: #8b5cf6
+cor2: #312e81
+avatar: pele=clara cabelo=topete cor_cabelo=loiro roupa=#64748b
+avatar_jovem: roupa=#334155
+avatar_final: roupa=#1e293b acessorio=gravata
+avatar_idoso: roupa=#475569 acessorio=gravata
+stats_fim: 85 66 99 80
+morte: 91
+causa: Velhice, numa tarde de chá
+profissao: Consultor da polícia e escritor
+patrimonio: R$ 38 milhões
+familia: Casado, 1 filha
+fama: Famoso no país inteiro
+titulo_final: Mente brilhante
+resultado: ok
+---
+# INFÂNCIA
+@0 Nasci em Ouro Preto, Minas Gerais. Sou um menino chamado Benício.
+@0 Meu pai é guia turístico. Minha mãe é psicóloga.
+@6 Ganhei um kit de mágica no Natal. Treinei o mesmo truque de cartas 400 vezes.
+@8 Descobri que, quando meu irmão mente, ele coça a orelha. Nunca mais ele ganhou de mim no "verdade ou mentira".
+@9 Minha mãe me explicou que ninguém lê mentes. O que existe é **observação**: olhar com atenção para os detalhes que todo mundo ignora.
+> Esse é o segredo de todo mentalista de verdade: não é poder, é treino de atenção. No simulador, isso significa subir a Inteligência o máximo possível.
+@11 Na feira de ciências, adivinhei a carta de 30 colegas seguidos. Na verdade, eu lia as reações deles.
+# ADOLESCÊNCIA
+@13 Comecei a me apresentar como mágico em festas de aniversário.
+@15 Um "vidente" famoso chegou à cidade cobrando caro para "ver o futuro" das pessoas.
+? O que fazer? | Pagar uma consulta | *Assistir ao show e descobrir os truques | Ignorar
+@15 Descobri como ele fazia: um ajudante conversava com o público antes do show e passava as informações. Contei tudo para a minha mãe.
+@17 Passei em Psicologia na universidade federal.
+$ Status aos 18 anos | 80 90 88 72
+# O SHOW
+@22 Formado, criei um espetáculo de mentalismo: "A Mente Não Mente".
+@23 No fim de cada show, eu explico ao público que tudo é observação e psicologia, não poderes.
+@24 O show esgotou em 15 cidades.
+! Ligação da delegacia | Uma delegada assistiu ao meu show e pediu ajuda num caso: um quadro valioso tinha sumido de um museu de Ouro Preto.
+? Aceitar o caso? | Recusar, sou só um artista | *Aceitar como consultor | Pedir para ficar com o quadro
+# O CASO DO QUADRO
+@25 Visitei o museu. Ninguém tinha arrombado nada. Só três funcionários tinham a chave.
+@25 Conversei com os três. O segurança contou a história certinha, igual a um texto decorado. Detalhe: pessoas sinceras costumam errar a ordem dos fatos quando lembram.
+@25 Notei pólen amarelo nos sapatos dele. Só uma árvore da cidade solta aquele pólen nessa época: a da chácara do primo dele.
++ Caso resolvido | O quadro estava escondido na chácara, intacto. A delegada me chamou para ser consultor fixo da polícia.
+# CONSULTOR
+@27 Ajudei a encontrar uma criança perdida num festival. Ela tinha seguido um balão vermelho, e eu notei o rastro de pipoca.
+@29 Casei com a Clara, a delegada que me chamou para o primeiro caso.
+@31 Desmascarei um golpista que vendia "pulseiras da sorte" pela internet para idosos.
+!! Erro grave | Acusei a pessoa errada num caso de furto. Pedi desculpas em público.
+@32 Prometi a mim mesmo: nunca mais confiar só na intuição sem provas.
+? Como trabalhar a partir de agora? | Confiar no meu instinto | *Sempre confirmar com provas antes de acusar | Largar a profissão
+@35 Nasceu minha filha, Lia.
+@40 Escrevi um livro: "Ninguém Lê Mentes", ensinando as pessoas a identificar golpes de falsos videntes. Virou best-seller.
+$ Status aos 40 anos | 89 76 98 78
+~ Os anos passam
+@55 Ajudei a resolver mais de 200 casos. Nenhum com "poderes".
+@70 A Lia virou delegada, como a mãe.
+@91 Morri numa tarde de chá, ainda tentando descobrir qual biscoito a minha neta tinha escondido.
+= O mentalista não tinha poder nenhum: tinha atenção, estudo e coragem para admitir um erro. O maior truque dele foi mostrar como os truques funcionam.

@@ -1,0 +1,71 @@
+numero: 07
+titulo: Sobrevivente do apocalipse zumbi
+rotulo: SOBREVIVENTE
+nome: Larissa "Lari" Costa
+nascimento: 2004
+cidade: Florianópolis, SC
+dificuldade: ★★★★★
+objetivo: Sobreviver a um apocalipse zumbi e ajudar a reconstruir o mundo.
+icone: zombie
+cor1: #65a30d
+cor2: #1a2e05
+avatar: pele=clara cabelo=rabo cor_cabelo=ruivo roupa=#0ea5e9
+avatar_jovem: roupa=#f97316
+avatar_final: roupa=#4d7c0f acessorio=faixa
+avatar_idoso: roupa=#0e7490 acessorio=oculos
+stats_fim: 86 64 84 60
+morte: 88
+causa: Velhice, na cidade que ajudou a reconstruir
+profissao: Prefeita de Nova Esperança
+patrimonio: Uma horta enorme e 40 galinhas
+familia: Casada, 2 filhos adotivos
+fama: Heroína nacional
+titulo_final: Sobrevivente
+resultado: ok
+---
+# VIDA NORMAL
+@0 Nasci em Florianópolis, Santa Catarina. Sou uma menina chamada Larissa.
+@0 Minha mãe é bióloga. Meu pai é dono de uma loja de material de camping.
+@7 Acampei pela primeira vez com meu pai. Aprendi a montar barraca e a ferver água.
+@12 Entrei para o grupo de escoteiros. Aprendi primeiros socorros e a usar uma bússola.
+@17 Passei em Biologia, igual à minha mãe.
+@21 Comecei a estagiar no laboratório da universidade.
+$ Status aos 21 anos | 82 92 80 68
+> Até aqui, uma vida comum. Mas este é um simulador de cenário extremo… e o mundo está prestes a mudar.
+# O SURTO
+@22 Notícias estranhas: pessoas num país distante estavam ficando "lentas, confusas e agressivas" por causa de um vírus.
+@22 Duas semanas depois, o primeiro caso no Brasil.
+!! Apocalipse | O vírus se espalhou pelo mundo em 40 dias. Os infectados andam devagar, gemem e perseguem qualquer pessoa que faça barulho. O governo mandou todos ficarem em casa.
+? A cidade virou caos. O que fazer primeiro? | Sair para o shopping | *Ficar em casa, com a porta trancada, e racionar comida | Correr para o aeroporto
+@22 Fiquei 12 dias em casa com meu pai. Minha mãe estava presa no laboratório da universidade.
+@22 Pelo rádio, ela avisou: "Os infectados enxergam mal, mas ouvem muito bem. Andem em silêncio."
+? Ir buscar a minha mãe? | Esperar o resgate do governo | *Ir com o meu pai, à noite, em silêncio | Ir sozinha de bicicleta
+@22 Atravessamos a cidade a pé, sem lanterna, seguindo os mapas dos escoteiros. Encontramos minha mãe no laboratório.
++ Família reunida | Os três juntos e a salvo. Minha mãe chorou. Meu pai também. Eu fingi que não.
+# SOBREVIVÊNCIA
+@23 Fomos para uma ilha pequena perto da costa, onde só dá para chegar de barco. Os infectados não nadam.
+@23 Encontramos mais 14 sobreviventes. Montamos uma vila.
+@23 Organizei turnos: horta, pesca, vigia e escola para as crianças.
+? Um grupo desconhecido chegou de barco pedindo abrigo. O que fazer? | Expulsar todos | *Deixar entrar depois de 3 dias de quarentena | Deixar entrar na hora
+@24 Os novos moradores eram 2 médicos, 1 eletricista e 5 crianças. Melhor decisão do ano.
+!! Ataque | Durante uma tempestade, um barco cheio de infectados encalhou na praia da ilha. Conseguimos afastá-los com fogos de artifício barulhentos, do outro lado da ilha.
+@24 Ninguém se feriu. Os fogos viraram nosso "alarme" oficial.
+$ Status aos 25 anos | 48 70 86 55
+# A CURA
+@25 Minha mãe e eu montamos um laboratório numa escola abandonada da ilha.
+@26 Descobrimos que algumas pessoas tinham resistência natural ao vírus.
+@27 Depois de 300 testes, criamos uma vacina experimental.
+? Testar a vacina? | Esperar mais um ano de testes | *Fazer os testes com cuidado, com voluntários e acompanhamento médico | Desistir
++ A cura | A vacina funcionou. Os infectados tratados voltaram lentamente ao normal.
+@28 Navios militares vieram buscar a fórmula. Ela foi distribuída para o mundo inteiro.
+# RECONSTRUÇÃO
+@30 Voltamos ao continente. As cidades estavam vazias e cheias de mato.
+@31 Fundamos uma cidade nova com os sobreviventes: **Nova Esperança**.
+@33 Fui eleita a primeira prefeita da cidade.
+@35 Casei com o Igor, o eletricista que chegou de barco naquele dia.
+@38 Adotamos dois irmãos que perderam os pais durante o surto.
+$ Status aos 40 anos | 90 78 88 62
+~ Os anos passam
+@60 Nova Esperança chegou a 200 mil moradores.
+@88 Morri em paz, olhando a horta que plantei com as próprias mãos.
+= Quem sobreviveu ao apocalipse não foi a pessoa mais forte, e sim a mais preparada e a mais calma. Primeiros socorros, bússola e um pai que sabia ferver água valeram mais que qualquer arma.
