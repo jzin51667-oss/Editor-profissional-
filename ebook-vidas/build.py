@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Gera o e-book "Tentando me tornar…" (vidas simuladas no estilo de simulador de vida).
+"""Gera o e-book "Vidas Impossíveis" (vidas simuladas no estilo de simulador de vida).
 
-Uso: python3 ebook-vidas/build.py  ->  ebook-vidas/dist/Tentando-me-tornar.pdf
+Uso: python3 ebook-vidas/build.py  ->  ebook-vidas/dist/Vidas-Impossiveis.pdf
 
 Conteúdo em ebook-vidas/conteudo/: arquivos .html (páginas livres) e .txt (vidas, formato abaixo).
 
@@ -190,8 +190,8 @@ def cover(stories):
 <section class="full cover">
  <div class="dots"></div>
  <div class="top">◆ 10 VIDAS SIMULADAS ◆ DO NASCIMENTO AO FIM ◆</div>
- <div class="t1">TENTANDO ME</div>
- <div class="t2">TORNAR<span>…</span></div>
+ <div class="t1">TENTANDO ME TORNAR…</div>
+ <div class="t2">VIDAS<br><span>IMPOSSÍVEIS</span></div>
  <div class="lineup">{''.join(cells)}</div>
  <div class="sub">Histórias de vidas inteiras no estilo dos simuladores de vida: profissões, sonhos impossíveis e escolhas que mudam tudo.</div>
  <div class="badges"><span class="badge">10 VIDAS</span><span class="badge">+1 VIDA QUE VOCÊ DECIDE</span><span class="badge">FICHAS PARA JOGAR</span></div>
@@ -249,7 +249,7 @@ def assemble(pages):
     for kind, x in items:
         parts.append(render_story(*x) if kind == "story" else expand(x, toc).replace("{{hall}}", hall_html(stories)))
     css = open(os.path.join(HERE, "style.css"), encoding="utf-8").read()
-    return f'<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Tentando me tornar…</title><style>{css}</style></head><body>{"".join(parts)}</body></html>'
+    return f'<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Vidas Impossíveis</title><style>{css}</style></head><body>{"".join(parts)}</body></html>'
 
 
 def render(doc, pdf):
@@ -273,7 +273,7 @@ def find_pages(pdf):
 
 def main():
     os.makedirs(DIST, exist_ok=True)
-    pdf = os.path.join(DIST, "Tentando-me-tornar.pdf")
+    pdf = os.path.join(DIST, "Vidas-Impossiveis.pdf")
     render(assemble({}), pdf)
     pages, _ = find_pages(pdf)
     render(assemble(pages), pdf)

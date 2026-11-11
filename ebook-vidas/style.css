@@ -14,7 +14,7 @@
 
 @page {
   size: 148mm 210mm; margin: 15mm 12mm 16mm; background: #f3f0fb;
-  @top-left { content: "TENTANDO ME TORNAR…"; font: 800 6pt "Mono"; color: #a29dc4; letter-spacing: .14em; vertical-align: bottom; padding-bottom: 3mm; }
+  @top-left { content: "VIDAS IMPOSSÍVEIS"; font: 800 6pt "Mono"; color: #a29dc4; letter-spacing: .14em; vertical-align: bottom; padding-bottom: 3mm; }
   @bottom-center { content: counter(page); font: 800 7.5pt "Mono"; color: #fff; background: #ff4d2e; border-radius: 3mm; vertical-align: top; margin-top: 3mm; width: 9mm; height: 5mm; text-align: center; }
 }
 @page full { margin: 0; @top-left { content: none; } @bottom-center { content: none; } }
@@ -41,9 +41,9 @@ ul { margin: 0 0 6pt; padding-left: 13pt; } li { margin-bottom: 2pt; }
 .cover { background: linear-gradient(170deg, #ff6a3d 0%, #ff3d5a 45%, #7c3aed 100%); color: #fff; }
 .cover .dots { position: absolute; inset: 0; opacity: .16; background-image: radial-gradient(#fff 1.2px, transparent 1.3px); background-size: 5mm 5mm; }
 .cover .top { position: absolute; top: 10mm; left: 0; right: 0; text-align: center; font: 800 6.6pt "Mono"; letter-spacing: .3em; }
-.cover .t1 { position: absolute; top: 19mm; left: 8mm; right: 8mm; text-align: center; font: 900 22pt/1 "Display"; letter-spacing: .02em; }
-.cover .t2 { position: absolute; top: 28mm; left: 6mm; right: 6mm; text-align: center; font: 900 37pt/0.95 "Display"; color: #fff; text-shadow: 0 2.2mm 0 #4c1d95, 0 0 8mm rgba(0,0,0,.25); }
-.cover .t2 span { color: #fde047; }
+.cover .t1 { position: absolute; top: 18mm; left: 8mm; right: 8mm; text-align: center; font: 800 9pt/1 "Mono"; letter-spacing: .22em; }
+.cover .t2 { position: absolute; top: 24mm; left: 4mm; right: 4mm; text-align: center; font: 900 40pt/0.92 "Display"; color: #fff; text-shadow: 0 2.2mm 0 #4c1d95, 0 0 8mm rgba(0,0,0,.25); }
+.cover .t2 span { color: #fde047; font-size: 34pt; }
 .cover .lineup { position: absolute; top: 70mm; left: 6mm; right: 6mm; display: grid; grid-template-columns: repeat(5, 1fr); gap: 2.4mm; }
 .cover .lineup div { background: rgba(255,255,255,.92); border-radius: 3mm; padding: 1.4mm; box-shadow: 0 1.2mm 0 rgba(76,29,149,.55); text-align: center; }
 .cover .lineup small { display: block; font: 800 5pt "Mono"; color: #4c1d95; letter-spacing: .04em; margin-top: .6mm; white-space: nowrap; overflow: hidden; }
