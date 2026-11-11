@@ -17,7 +17,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, os.path.join(ROOT, "ebook"))
 import icons  # noqa: E402
 
-CHECKOUT = "https://pay.hotmart.com/U108383162C"
+CHECKOUT = "https://pay.hotmart.com/U108383162C?checkoutMode=10"
 PDF = os.path.join(ROOT, "ebook", "dist", "Guia-dos-Segredos-dos-Games.pdf")
 PERSONAGEM = os.path.join(ROOT, "ebook", "divulgacao", "personagem.png")
 
